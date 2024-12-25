@@ -1,5 +1,6 @@
 # Retro-VFO
 A Si5351A/MS5351 100kHz lower limit Quadrature Clock Generator with Retro Rotory Dial Using a 240x240 dpi 1.54 inch ST7789 TFT Display.
+Added a Arduino Nano code example for quadrture output (quad.zip). No display is used. 
 Based on code/design by T.J. Uebo (JF3HZB) A.K.A Tj Lab(JF3HZB)  https://github.com/tjlab-jf3hzb/Digital_VFO_with_analog_dial_V2.git
 and...
 It’s Not Just Another Digital VFO - Version 1.0 Developed By: John Price – WA2FZW, Glenn Percy – VK3PE and Jim Smith – G3ZQC
