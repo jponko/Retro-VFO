@@ -1,5 +1,5 @@
 # Retro-VFO
-# A Si5351A/MS5351 100kHz lower limit Quadrature Clock Generator with Retro Rotory Dial Using a 1.54" 240x240, 1.9" 170x320 or 2.0", 2.4", or 2.8" 240x320 dpi ST7789 LCD Displays.
+# A Si5351A/MS5351 100kHz lower limit Quadrature Clock Generator with Retro Rotory Dial Using 1.54" 240x240, 1.9" 170x320 or 2.0", 2.4", or 2.8" 240x320 dpi ST7789 LCD Displays.
 
 Added a Arduino Nano code example, quad.zip, to demonstrate just the quadrature output without the display.
 
